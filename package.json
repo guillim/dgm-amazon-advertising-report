@@ -1,0 +1,14 @@
+{
+  "name": "dgm-amazon-advertising-report",
+  "version": "0.1.0",
+  "description": "We aim to deploy some functions to download reports from Amazon Advertising API in a serverless way, and store them in google Cloud SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guillim",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-google-cloudfunctions": "*"
+  }
+}
